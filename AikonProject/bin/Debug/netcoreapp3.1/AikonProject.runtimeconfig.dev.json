@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\buffa\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\buffa\\.nuget\\packages"
+    ]
+  }
+}
